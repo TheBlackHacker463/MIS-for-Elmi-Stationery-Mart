@@ -1,0 +1,2 @@
+This Program works in Oracle 21c.
+The Database and script are writen for Oracle 21c Database.
